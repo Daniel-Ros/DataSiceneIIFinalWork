@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "/home/daniel/anaconda3/bin/python",
-    "git.ignoreLimitWarning": true
+  "python.pythonPath": "/home/daniel/anaconda3/bin/python",
+  "git.ignoreLimitWarning": true,
+  "jupyter.jupyterServerType": "local"
 }
