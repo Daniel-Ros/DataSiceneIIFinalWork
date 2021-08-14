@@ -1,5 +1,6 @@
 {
   "python.pythonPath": "/home/daniel/anaconda3/bin/python",
   "git.ignoreLimitWarning": true,
-  "jupyter.jupyterServerType": "local"
+  "jupyter.jupyterServerType": "local",
+  "azureML.defaultWorkspaceId": "/subscriptions/cdacc1f4-23a7-4d47-88de-e9896b907940/resourceGroups/dsproj/providers/Microsoft.MachineLearningServices/workspaces/dsproj"
 }
